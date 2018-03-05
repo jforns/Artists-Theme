@@ -1,17 +1,17 @@
 #-------------------------------
 # General Site Settings
 
-title: Artists Theme
-description: Thinker // Designer // YouTuber
-email: devtipsfordesigners@gmail.com
+title: Eugènia Atienza
+description: Psicòloga // Coach // Mindfulness
+email: eatienza@gmail.com
 
 # NOTE: The Logo and Background image are defined in the all.sass document.
 
 menu:
-- {name: About Me, url: '#about-me'}
-- {name: Work, url: '#work'}
+- {name: Sobre Mi, url: '#about-me'}
+- {name: Treballs, url: '#work'}
 - {name: Clients, url: '#clients'}
-- {name: Contact, url: '#contact'}
+- {name: Contacte, url: '#contact'}
 
 #-------------------------------
 # SEO Section
